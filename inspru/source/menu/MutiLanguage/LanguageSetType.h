@@ -1,0 +1,35 @@
+#ifndef _LANGUAGE_SETTYPE_H_
+#define _LANGUAGE_SETTYPE_H_
+
+//实时数据消息
+const int WM_RealTimeData = WM_USER + 318;
+
+//语言类型枚举定义
+enum enLanguage
+{
+	ID_CHINESE = 0,
+	ID_ENGLISH = 1,
+	ID_GERMANY = 2,
+	ID_FRANCE  = 3,
+	ID_PORTUGAL= 4,
+	ID_ITALY   = 5,
+	ID_RUSSIA  = 6,
+	ID_THAILAND = 7,
+	ID_ARAB = 8,
+	ID_GREECE = 9,
+	ID_VIETNAMESE = 10,
+	ID_POLAND = 11,
+	ID_DENMARK = 12,
+	ID_SWEDEN = 13,
+	ID_JAPAN = 14,
+	ID_KOREA = 15,
+	ID_SPAIN = 16,
+	ID_NETHERLANDS = 17,
+	ID_NORWAY = 18,
+	ID_TURKEY = 19,
+	ID_ROMANIA = 20,
+	ID_HEBREW = 21,
+	ID_INDIA = 22
+};
+
+#endif

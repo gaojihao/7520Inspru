@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "E9101Main", "E9101Main\E9101Main.vcproj", "{14ED753F-3EEC-419E-9115-2E6EEB77BF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|KP210_SDK (ARMV4I) = Debug|KP210_SDK (ARMV4I)
+		Debug|SMDK2450 (ARMV4I) = Debug|SMDK2450 (ARMV4I)
+		Release|KP210_SDK (ARMV4I) = Release|KP210_SDK (ARMV4I)
+		Release|SMDK2450 (ARMV4I) = Release|SMDK2450 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Debug|KP210_SDK (ARMV4I).ActiveCfg = Debug|SMDK2450 (ARMV4I)
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Debug|SMDK2450 (ARMV4I).ActiveCfg = Debug|SMDK2450 (ARMV4I)
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Debug|SMDK2450 (ARMV4I).Build.0 = Debug|SMDK2450 (ARMV4I)
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Debug|SMDK2450 (ARMV4I).Deploy.0 = Debug|SMDK2450 (ARMV4I)
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Release|KP210_SDK (ARMV4I).ActiveCfg = Release|SMDK2450 (ARMV4I)
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Release|SMDK2450 (ARMV4I).ActiveCfg = Release|SMDK2450 (ARMV4I)
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Release|SMDK2450 (ARMV4I).Build.0 = Release|SMDK2450 (ARMV4I)
+		{14ED753F-3EEC-419E-9115-2E6EEB77BF64}.Release|SMDK2450 (ARMV4I).Deploy.0 = Release|SMDK2450 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
